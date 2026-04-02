@@ -32,7 +32,7 @@ Um jogo de xadrez funcional desenvolvido em Java, executado no console, com impl
 1. Clone o repositório:
 
 ```
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone
 ```
 
 2. Abra em uma IDE (Eclipse, IntelliJ, etc.)
